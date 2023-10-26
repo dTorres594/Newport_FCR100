@@ -120,7 +120,6 @@
 			<Item Name="Connect Newport Instrument.vi" Type="VI" URL="/H/Mi unidad/Departamento de Ingenieria/Investigadores/Donato Luna/PROGRAMA PLATINAS20_V2/FILES_DATA/NewPort/FC Virtual Front Panel.llb/Connect Newport Instrument.vi"/>
 			<Item Name="ctl_OperatingMode.ctl" Type="VI" URL="/H/Mi unidad/Departamento de Ingenieria/Investigadores/Donato Luna/PROGRAMA PLATINAS20_V2/FILES_DATA/NewPort/Newport-General/ctl_OperatingMode.ctl"/>
 			<Item Name="Dialog box to select a device.vi" Type="VI" URL="/H/Mi unidad/Departamento de Ingenieria/Investigadores/Donato Luna/PROGRAMA PLATINAS20_V2/FILES_DATA/NewPort/FC Virtual Front Panel.llb/Dialog box to select a device.vi"/>
-			<Item Name="FC Enter-Leave CONFIGURATION State v2.vi" Type="VI" URL="/H/Mi unidad/Departamento de Ingenieria/Investigadores/Donato Luna/PROGRAMA PLATINAS20_V2/FILES_DATA/NewPort/FC_family.llb/FC Enter-Leave CONFIGURATION State v2.vi"/>
 			<Item Name="FindInstrument.vi" Type="VI" URL="/H/Mi unidad/Departamento de Ingenieria/Investigadores/Donato Luna/PROGRAMA PLATINAS20_V2/FILES_DATA/NewPort/Newport-General/FindInstrument.vi"/>
 			<Item Name="NP_Logging.vi" Type="VI" URL="/H/Mi unidad/Departamento de Ingenieria/Investigadores/Donato Luna/PROGRAMA PLATINAS20_V2/FILES_DATA/NewPort/Newport-General/NP_Logging.vi"/>
 		</Item>
