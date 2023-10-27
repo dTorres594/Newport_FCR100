@@ -17,7 +17,6 @@
 		<Item Name="Testers" Type="Folder">
 			<Item Name="Test FCR100 API.vi" Type="VI" URL="../Libraries/FCR100/Test FCR100 API.vi"/>
 		</Item>
-		<Item Name="Controller state -- enum.ctl" Type="VI" URL="../Libraries/FCR100/Support/Controller state -- enum.ctl"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
 				<Item Name="Acquire Semaphore.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/semaphor.llb/Acquire Semaphore.vi"/>

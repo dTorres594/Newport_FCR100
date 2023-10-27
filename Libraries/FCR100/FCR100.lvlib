@@ -146,6 +146,7 @@
 		<Item Name="Check status -- subVI.vi" Type="VI" URL="../Support/Check status -- subVI.vi"/>
 		<Item Name="Device state -- enum.ctl" Type="VI" URL="../Support/Device state -- enum.ctl"/>
 		<Item Name="Get state -- subVI.vi" Type="VI" URL="../Support/Get state -- subVI.vi"/>
+		<Item Name="Controller state -- enum.ctl" Type="VI" URL="../Support/Controller state -- enum.ctl"/>
 	</Item>
 	<Item Name="Documentation" Type="Folder">
 		<Item Name="FCR100_-_User_s_Manual.pdf" Type="Document" URL="../../../Documentation/FCR100_-_User_s_Manual.pdf"/>
