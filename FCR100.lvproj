@@ -11,9 +11,6 @@
 		<Property Name="server.vi.callsEnabled" Type="Bool">true</Property>
 		<Property Name="server.vi.propertiesEnabled" Type="Bool">true</Property>
 		<Property Name="specify.custom.address" Type="Bool">false</Property>
-		<Item Name="3rd party" Type="Folder">
-			<Item Name="Newport" Type="Folder"/>
-		</Item>
 		<Item Name="Modules" Type="Folder">
 			<Item Name="FCR100.lvlib" Type="Library" URL="../Libraries/FCR100/FCR100.lvlib"/>
 		</Item>
