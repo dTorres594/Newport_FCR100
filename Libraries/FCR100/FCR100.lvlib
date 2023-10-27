@@ -151,6 +151,21 @@
 	<Item Name="Documentation" Type="Folder">
 		<Item Name="FCR100_-_User_s_Manual.pdf" Type="Document" URL="../../../Documentation/FCR100_-_User_s_Manual.pdf"/>
 	</Item>
+	<Item Name="3rd party" Type="Folder">
+		<Item Name="Newport" Type="Folder">
+			<Item Name="_Create Instrument Channel.vi" Type="VI" URL="../3rd party/NewPort/Newport-General/_Create Instrument Channel.vi"/>
+			<Item Name="_SendCommand.vi" Type="VI" URL="../3rd party/NewPort/Newport-General/_SendCommand.vi"/>
+			<Item Name="_Parse Instrument Channel.vi" Type="VI" URL="../3rd party/NewPort/Newport-General/_Parse Instrument Channel.vi"/>
+			<Item Name="_QueryCommand.vi" Type="VI" URL="../3rd party/NewPort/Newport-General/_QueryCommand.vi"/>
+			<Item Name="ctl_OperatingMode.ctl" Type="VI" URL="../3rd party/NewPort/Newport-General/ctl_OperatingMode.ctl"/>
+			<Item Name="NP_Logging.vi" Type="VI" URL="../3rd party/NewPort/Newport-General/NP_Logging.vi"/>
+			<Item Name="_GetStatusByte.vi" Type="VI" URL="../3rd party/NewPort/Newport-General/_GetStatusByte.vi"/>
+			<Item Name="FindInstrument.vi" Type="VI" URL="../3rd party/NewPort/Newport-General/FindInstrument.vi"/>
+			<Item Name="Connect Newport Instrument.vi" Type="VI" URL="../3rd party/NewPort/FC Virtual Front Panel.llb/Connect Newport Instrument.vi"/>
+			<Item Name="_ReadCommand.vi" Type="VI" URL="../3rd party/NewPort/Newport-General/_ReadCommand.vi"/>
+			<Item Name="Dialog box to select a device.vi" Type="VI" URL="../3rd party/NewPort/FC Virtual Front Panel.llb/Dialog box to select a device.vi"/>
+		</Item>
+	</Item>
 	<Item Name="Main.vi" Type="VI" URL="../Main.vi">
 		<Property Name="NI.LibItem.Scope" Type="Int">2</Property>
 	</Item>

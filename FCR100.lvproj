@@ -11,6 +11,9 @@
 		<Property Name="server.vi.callsEnabled" Type="Bool">true</Property>
 		<Property Name="server.vi.propertiesEnabled" Type="Bool">true</Property>
 		<Property Name="specify.custom.address" Type="Bool">false</Property>
+		<Item Name="3rd party" Type="Folder">
+			<Item Name="Newport" Type="Folder"/>
+		</Item>
 		<Item Name="Modules" Type="Folder">
 			<Item Name="FCR100.lvlib" Type="Library" URL="../Libraries/FCR100/FCR100.lvlib"/>
 		</Item>
@@ -110,17 +113,6 @@
 				<Item Name="Write Characters To File.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/file.llb/Write Characters To File.vi"/>
 				<Item Name="Write File+ (string).vi" Type="VI" URL="/&lt;vilib&gt;/Utility/file.llb/Write File+ (string).vi"/>
 			</Item>
-			<Item Name="_Create Instrument Channel.vi" Type="VI" URL="/H/Mi unidad/Departamento de Ingenieria/Investigadores/Donato Luna/PROGRAMA PLATINAS20_V2/FILES_DATA/NewPort/Newport-General/_Create Instrument Channel.vi"/>
-			<Item Name="_GetStatusByte.vi" Type="VI" URL="/H/Mi unidad/Departamento de Ingenieria/Investigadores/Donato Luna/PROGRAMA PLATINAS20_V2/FILES_DATA/NewPort/Newport-General/_GetStatusByte.vi"/>
-			<Item Name="_Parse Instrument Channel.vi" Type="VI" URL="/H/Mi unidad/Departamento de Ingenieria/Investigadores/Donato Luna/PROGRAMA PLATINAS20_V2/FILES_DATA/NewPort/Newport-General/_Parse Instrument Channel.vi"/>
-			<Item Name="_QueryCommand.vi" Type="VI" URL="/H/Mi unidad/Departamento de Ingenieria/Investigadores/Donato Luna/PROGRAMA PLATINAS20_V2/FILES_DATA/NewPort/Newport-General/_QueryCommand.vi"/>
-			<Item Name="_ReadCommand.vi" Type="VI" URL="/H/Mi unidad/Departamento de Ingenieria/Investigadores/Donato Luna/PROGRAMA PLATINAS20_V2/FILES_DATA/NewPort/Newport-General/_ReadCommand.vi"/>
-			<Item Name="_SendCommand.vi" Type="VI" URL="/H/Mi unidad/Departamento de Ingenieria/Investigadores/Donato Luna/PROGRAMA PLATINAS20_V2/FILES_DATA/NewPort/Newport-General/_SendCommand.vi"/>
-			<Item Name="Connect Newport Instrument.vi" Type="VI" URL="/H/Mi unidad/Departamento de Ingenieria/Investigadores/Donato Luna/PROGRAMA PLATINAS20_V2/FILES_DATA/NewPort/FC Virtual Front Panel.llb/Connect Newport Instrument.vi"/>
-			<Item Name="ctl_OperatingMode.ctl" Type="VI" URL="/H/Mi unidad/Departamento de Ingenieria/Investigadores/Donato Luna/PROGRAMA PLATINAS20_V2/FILES_DATA/NewPort/Newport-General/ctl_OperatingMode.ctl"/>
-			<Item Name="Dialog box to select a device.vi" Type="VI" URL="/H/Mi unidad/Departamento de Ingenieria/Investigadores/Donato Luna/PROGRAMA PLATINAS20_V2/FILES_DATA/NewPort/FC Virtual Front Panel.llb/Dialog box to select a device.vi"/>
-			<Item Name="FindInstrument.vi" Type="VI" URL="/H/Mi unidad/Departamento de Ingenieria/Investigadores/Donato Luna/PROGRAMA PLATINAS20_V2/FILES_DATA/NewPort/Newport-General/FindInstrument.vi"/>
-			<Item Name="NP_Logging.vi" Type="VI" URL="/H/Mi unidad/Departamento de Ingenieria/Investigadores/Donato Luna/PROGRAMA PLATINAS20_V2/FILES_DATA/NewPort/Newport-General/NP_Logging.vi"/>
 		</Item>
 		<Item Name="Build Specifications" Type="Build"/>
 	</Item>
