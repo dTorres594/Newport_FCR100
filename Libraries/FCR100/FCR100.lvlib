@@ -43,6 +43,7 @@
 				<Item Name="Find instruments Argument--cluster.ctl" Type="VI" URL="../Find instruments Argument--cluster.ctl"/>
 				<Item Name="Find instruments (Reply Payload)--cluster.ctl" Type="VI" URL="../Find instruments (Reply Payload)--cluster.ctl"/>
 				<Item Name="Connect wihtout dialog Argument--cluster.ctl" Type="VI" URL="../Connect wihtout dialog Argument--cluster.ctl"/>
+				<Item Name="Disconnect Argument--cluster.ctl" Type="VI" URL="../Disconnect Argument--cluster.ctl"/>
 			</Item>
 			<Item Name="Broadcast" Type="Folder">
 				<Item Name="Did Init Argument--cluster.ctl" Type="VI" URL="../Did Init Argument--cluster.ctl"/>
@@ -50,6 +51,7 @@
 				<Item Name="Error Reported Argument--cluster.ctl" Type="VI" URL="../Error Reported Argument--cluster.ctl"/>
 				<Item Name="Device connected Argument--cluster.ctl" Type="VI" URL="../Device connected Argument--cluster.ctl"/>
 				<Item Name="Connection failed Argument--cluster.ctl" Type="VI" URL="../Connection failed Argument--cluster.ctl"/>
+				<Item Name="Device disconnected Argument--cluster.ctl" Type="VI" URL="../Device disconnected Argument--cluster.ctl"/>
 			</Item>
 		</Item>
 		<Item Name="Requests" Type="Folder">
@@ -74,6 +76,7 @@
 			<Item Name="Reset controller.vi" Type="VI" URL="../Reset controller.vi"/>
 			<Item Name="Find instruments.vi" Type="VI" URL="../Find instruments.vi"/>
 			<Item Name="Connect wihtout dialog.vi" Type="VI" URL="../Connect wihtout dialog.vi"/>
+			<Item Name="Disconnect.vi" Type="VI" URL="../Disconnect.vi"/>
 		</Item>
 		<Item Name="Start Module.vi" Type="VI" URL="../Start Module.vi"/>
 		<Item Name="Synchronize Module Events.vi" Type="VI" URL="../Synchronize Module Events.vi"/>
@@ -93,6 +96,7 @@
 		<Item Name="Update Module Execution Status.vi" Type="VI" URL="../Update Module Execution Status.vi"/>
 		<Item Name="Device connected.vi" Type="VI" URL="../Device connected.vi"/>
 		<Item Name="Connection failed.vi" Type="VI" URL="../Connection failed.vi"/>
+		<Item Name="Device disconnected.vi" Type="VI" URL="../Device disconnected.vi"/>
 	</Item>
 	<Item Name="Requests" Type="Folder">
 		<Property Name="NI.LibItem.Scope" Type="Int">2</Property>
