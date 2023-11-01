@@ -40,6 +40,8 @@
 				<Item Name="Get current position Argument--cluster.ctl" Type="VI" URL="../Get current position Argument--cluster.ctl"/>
 				<Item Name="Get current position (Reply Payload)--cluster.ctl" Type="VI" URL="../Get current position (Reply Payload)--cluster.ctl"/>
 				<Item Name="Reset controller Argument--cluster.ctl" Type="VI" URL="../Reset controller Argument--cluster.ctl"/>
+				<Item Name="Find instruments Argument--cluster.ctl" Type="VI" URL="../Find instruments Argument--cluster.ctl"/>
+				<Item Name="Find instruments (Reply Payload)--cluster.ctl" Type="VI" URL="../Find instruments (Reply Payload)--cluster.ctl"/>
 			</Item>
 			<Item Name="Broadcast" Type="Folder">
 				<Item Name="Did Init Argument--cluster.ctl" Type="VI" URL="../Did Init Argument--cluster.ctl"/>
@@ -69,6 +71,7 @@
 			<Item Name="Move relative.vi" Type="VI" URL="../Move relative.vi"/>
 			<Item Name="Get current position.vi" Type="VI" URL="../Get current position.vi"/>
 			<Item Name="Reset controller.vi" Type="VI" URL="../Reset controller.vi"/>
+			<Item Name="Find instruments.vi" Type="VI" URL="../Find instruments.vi"/>
 		</Item>
 		<Item Name="Start Module.vi" Type="VI" URL="../Start Module.vi"/>
 		<Item Name="Synchronize Module Events.vi" Type="VI" URL="../Synchronize Module Events.vi"/>
