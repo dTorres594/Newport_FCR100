@@ -44,6 +44,8 @@
 				<Item Name="Find instruments (Reply Payload)--cluster.ctl" Type="VI" URL="../Find instruments (Reply Payload)--cluster.ctl"/>
 				<Item Name="Connect wihtout dialog Argument--cluster.ctl" Type="VI" URL="../Connect wihtout dialog Argument--cluster.ctl"/>
 				<Item Name="Disconnect Argument--cluster.ctl" Type="VI" URL="../Disconnect Argument--cluster.ctl"/>
+				<Item Name="Continuously check state Argument--cluster.ctl" Type="VI" URL="../Continuously check state Argument--cluster.ctl"/>
+				<Item Name="Stop checking state Argument--cluster.ctl" Type="VI" URL="../Stop checking state Argument--cluster.ctl"/>
 			</Item>
 			<Item Name="Broadcast" Type="Folder">
 				<Item Name="Did Init Argument--cluster.ctl" Type="VI" URL="../Did Init Argument--cluster.ctl"/>
@@ -52,6 +54,7 @@
 				<Item Name="Device connected Argument--cluster.ctl" Type="VI" URL="../Device connected Argument--cluster.ctl"/>
 				<Item Name="Connection failed Argument--cluster.ctl" Type="VI" URL="../Connection failed Argument--cluster.ctl"/>
 				<Item Name="Device disconnected Argument--cluster.ctl" Type="VI" URL="../Device disconnected Argument--cluster.ctl"/>
+				<Item Name="State reached Argument--cluster.ctl" Type="VI" URL="../State reached Argument--cluster.ctl"/>
 			</Item>
 		</Item>
 		<Item Name="Requests" Type="Folder">
@@ -77,6 +80,8 @@
 			<Item Name="Find instruments.vi" Type="VI" URL="../Find instruments.vi"/>
 			<Item Name="Connect wihtout dialog.vi" Type="VI" URL="../Connect wihtout dialog.vi"/>
 			<Item Name="Disconnect.vi" Type="VI" URL="../Disconnect.vi"/>
+			<Item Name="Continuously check state.vi" Type="VI" URL="../Continuously check state.vi"/>
+			<Item Name="Stop checking state.vi" Type="VI" URL="../Stop checking state.vi"/>
 		</Item>
 		<Item Name="Start Module.vi" Type="VI" URL="../Start Module.vi"/>
 		<Item Name="Synchronize Module Events.vi" Type="VI" URL="../Synchronize Module Events.vi"/>
@@ -97,6 +102,7 @@
 		<Item Name="Device connected.vi" Type="VI" URL="../Device connected.vi"/>
 		<Item Name="Connection failed.vi" Type="VI" URL="../Connection failed.vi"/>
 		<Item Name="Device disconnected.vi" Type="VI" URL="../Device disconnected.vi"/>
+		<Item Name="State reached.vi" Type="VI" URL="../State reached.vi"/>
 	</Item>
 	<Item Name="Requests" Type="Folder">
 		<Property Name="NI.LibItem.Scope" Type="Int">2</Property>
@@ -158,6 +164,12 @@
 		<Item Name="Device state -- enum.ctl" Type="VI" URL="../Support/Device state -- enum.ctl"/>
 		<Item Name="Get state -- subVI.vi" Type="VI" URL="../Support/Get state -- subVI.vi"/>
 		<Item Name="Controller state -- enum.ctl" Type="VI" URL="../Support/Controller state -- enum.ctl"/>
+		<Item Name="Wake HL.vi" Type="VI" URL="../Support/Wake HL.vi"/>
+		<Item Name="Sleep HL.vi" Type="VI" URL="../Support/Sleep HL.vi"/>
+		<Item Name="Create user events.vi" Type="VI" URL="../Support/Create user events.vi"/>
+		<Item Name="Device states -- cluster.ctl" Type="VI" URL="../Support/Device states -- cluster.ctl"/>
+		<Item Name="HL data -- cluster.ctl" Type="VI" URL="../Support/HL data -- cluster.ctl"/>
+		<Item Name="Wake HL data -- cluster.ctl" Type="VI" URL="../Support/Wake HL data -- cluster.ctl"/>
 	</Item>
 	<Item Name="Documentation" Type="Folder">
 		<Item Name="FCR100_-_User_s_Manual.pdf" Type="Document" URL="../../../Documentation/FCR100_-_User_s_Manual.pdf"/>
