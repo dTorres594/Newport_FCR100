@@ -46,6 +46,10 @@
 				<Item Name="Disconnect Argument--cluster.ctl" Type="VI" URL="../Disconnect Argument--cluster.ctl"/>
 				<Item Name="Continuously check state Argument--cluster.ctl" Type="VI" URL="../Continuously check state Argument--cluster.ctl"/>
 				<Item Name="Stop checking state Argument--cluster.ctl" Type="VI" URL="../Stop checking state Argument--cluster.ctl"/>
+				<Item Name="Configure simultaneous move Argument--cluster.ctl" Type="VI" URL="../Configure simultaneous move Argument--cluster.ctl"/>
+				<Item Name="Get simultaneous move config Argument--cluster.ctl" Type="VI" URL="../Get simultaneous move config Argument--cluster.ctl"/>
+				<Item Name="Get simultaneous move config (Reply Payload)--cluster.ctl" Type="VI" URL="../Get simultaneous move config (Reply Payload)--cluster.ctl"/>
+				<Item Name="Execute simultaneous move Argument--cluster.ctl" Type="VI" URL="../Execute simultaneous move Argument--cluster.ctl"/>
 			</Item>
 			<Item Name="Broadcast" Type="Folder">
 				<Item Name="Did Init Argument--cluster.ctl" Type="VI" URL="../Did Init Argument--cluster.ctl"/>
@@ -82,6 +86,9 @@
 			<Item Name="Disconnect.vi" Type="VI" URL="../Disconnect.vi"/>
 			<Item Name="Continuously check state.vi" Type="VI" URL="../Continuously check state.vi"/>
 			<Item Name="Stop checking state.vi" Type="VI" URL="../Stop checking state.vi"/>
+			<Item Name="Configure simultaneous move.vi" Type="VI" URL="../Configure simultaneous move.vi"/>
+			<Item Name="Get simultaneous move config.vi" Type="VI" URL="../Get simultaneous move config.vi"/>
+			<Item Name="Execute simultaneous move.vi" Type="VI" URL="../Execute simultaneous move.vi"/>
 		</Item>
 		<Item Name="Start Module.vi" Type="VI" URL="../Start Module.vi"/>
 		<Item Name="Synchronize Module Events.vi" Type="VI" URL="../Synchronize Module Events.vi"/>
