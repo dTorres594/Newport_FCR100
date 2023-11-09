@@ -111,10 +111,6 @@
 				<Item Name="Write Characters To File.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/file.llb/Write Characters To File.vi"/>
 				<Item Name="Write File+ (string).vi" Type="VI" URL="/&lt;vilib&gt;/Utility/file.llb/Write File+ (string).vi"/>
 			</Item>
-			<Item Name="_Parse Instrument Channel.vi" Type="VI" URL="/H/Mi unidad/Departamento de Ingenieria/Investigadores/Donato Luna/PROGRAMA PLATINAS20_V2/FILES_DATA/NewPort/Newport-General/_Parse Instrument Channel.vi"/>
-			<Item Name="_SendCommand.vi" Type="VI" URL="/H/Mi unidad/Departamento de Ingenieria/Investigadores/Donato Luna/PROGRAMA PLATINAS20_V2/FILES_DATA/NewPort/Newport-General/_SendCommand.vi"/>
-			<Item Name="ctl_OperatingMode.ctl" Type="VI" URL="/H/Mi unidad/Departamento de Ingenieria/Investigadores/Donato Luna/PROGRAMA PLATINAS20_V2/FILES_DATA/NewPort/Newport-General/ctl_OperatingMode.ctl"/>
-			<Item Name="NP_Logging.vi" Type="VI" URL="/H/Mi unidad/Departamento de Ingenieria/Investigadores/Donato Luna/PROGRAMA PLATINAS20_V2/FILES_DATA/NewPort/Newport-General/NP_Logging.vi"/>
 		</Item>
 		<Item Name="Build Specifications" Type="Build"/>
 	</Item>
