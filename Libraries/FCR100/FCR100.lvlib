@@ -59,6 +59,7 @@
 				<Item Name="Connection failed Argument--cluster.ctl" Type="VI" URL="../Connection failed Argument--cluster.ctl"/>
 				<Item Name="Device disconnected Argument--cluster.ctl" Type="VI" URL="../Device disconnected Argument--cluster.ctl"/>
 				<Item Name="State reached Argument--cluster.ctl" Type="VI" URL="../State reached Argument--cluster.ctl"/>
+				<Item Name="Home reached Argument--cluster.ctl" Type="VI" URL="../Home reached Argument--cluster.ctl"/>
 			</Item>
 		</Item>
 		<Item Name="Requests" Type="Folder">
@@ -110,6 +111,7 @@
 		<Item Name="Connection failed.vi" Type="VI" URL="../Connection failed.vi"/>
 		<Item Name="Device disconnected.vi" Type="VI" URL="../Device disconnected.vi"/>
 		<Item Name="State reached.vi" Type="VI" URL="../State reached.vi"/>
+		<Item Name="Home reached.vi" Type="VI" URL="../Home reached.vi"/>
 	</Item>
 	<Item Name="Requests" Type="Folder">
 		<Property Name="NI.LibItem.Scope" Type="Int">2</Property>
